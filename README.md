@@ -1,4 +1,1 @@
-# MouseStressOTU
-# Including some random text to test this out.
-# Even more.
-One more test.
+## Files for the Lyte Mouse Stress Project will go here.
